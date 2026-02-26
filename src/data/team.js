@@ -53,7 +53,7 @@ export const coordinators = [
 export const testimonials = [
   {
     id: 1,
-    name: 'Alex Martinez',
+    name: 'Messi',
     role: 'Software Engineer at Google',
     text: 'IftiVerse helped me land my dream job. The practical projects and mentorship were invaluable.',
     rating: 5
