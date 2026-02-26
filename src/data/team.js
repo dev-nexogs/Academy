@@ -60,7 +60,7 @@ export const testimonials = [
   },
   {
     id: 2,
-    name: 'Priya Patel',
+    name: 'Ronaldo',
     role: 'Full Stack Developer',
     text: 'Best online academy I\'ve enrolled in. The instructors are knowledgeable and always available to help.',
     rating: 5
